@@ -1,0 +1,18 @@
+footer {
+    background-color: #6278F7;
+    width: 100%;
+    padding: 75px 0;
+    display: flex;
+    bottom: 0;
+    justify-content: space-around;
+}
+
+footer .redes-sociais img {
+    padding: 0 34px;
+}
+
+footer div p {
+    font-size: 20px;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+}
