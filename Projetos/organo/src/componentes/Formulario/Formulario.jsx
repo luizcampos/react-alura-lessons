@@ -14,7 +14,7 @@ const Formulario = (props) => {
     const aoSalvar = (evento) => { //evento do JS
         evento.preventDefault(); //previne comportamento padrão
         //alert('Form foi submetido');
-        props.aoColaboradorCadastrado({
+        props.aoColaboradorCadastrado({ 
             nome,
             cargo,
             imagem,
